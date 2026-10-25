@@ -22,6 +22,7 @@ outputs/model_results.json
 outputs/summary.json
 outputs/*.csv
 !outputs/refresh_queue_sample.csv
+outputs_ranked_action_playbook_queue.csv
 
 # --- Intern work area ------------------------------------------------------
 # your experiments live in work/; datasets never enter git
